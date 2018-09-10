@@ -2,6 +2,6 @@ The linux files for Bitcoin1776
 
 to install
 
-cd Downloads tar -zxvf forkcoin-src.tar.gz use the install instructions found in the folder
+cd Downloads tar -zxvf (source or binary name I would use binary if you are not insane) use the install instructions found in the folder
 
-binary files are not required
+Source files not required
